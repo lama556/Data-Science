@@ -1,0 +1,18 @@
+The Proposal of Project
+(House Price Prediction In INDIA)
+By; Adhwa Alhamoudi
+Question/need:
+What is the price of house? How can we use the features in dataset to predict the house price?
+There are several attributes in this dataset that can be played to predict the house price
+are all the features concerned by buyer?
+
+Data Description:
+•	What dataset(s) do you plan to use, and how will you obtain the data?
+The dataset is csv format and contain 12 columns and 29451 rows
+•	If modeling, what will you predict as your target?
+The house price.
+Tools:
+•	How do you intend to meet the tools requirement of the project?
+With python programming language, algorithms and visualization.
+•	Are you planning in advance to need or use additional tools beyond those required? 
+Yes, if I need
